@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "addons": [
+    {
+      "id": "mighty_addon",
+      "name": "Mighty Addon",
+      "latest": {
+        "version": "1.0.0",
+        "cobaltVersion": "1.0.1",
+        "downloadUrl": "https://github.com/EvilPiza/MightyCobaltAddon/releases/download/1.0.0/MightyAddon-1.0.0-dev.jar",
+        "sha256": "5a9c187aa8684f6cb2259616573f531740072f6b9f22b0c2cd3ea3eeb4f9836b"
+      }
+    }
+  ]
+}
