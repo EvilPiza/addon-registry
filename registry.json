@@ -2,13 +2,25 @@
   "schemaVersion": 1,
   "addons": [
     {
-      "id": "mighty_addon",
-      "name": "Mighty Addon",
+      "id": "mightystore",
+      "name": "Mighty Store",
       "latest": {
         "version": "1.0.0",
-        "cobaltVersion": "1.0.1",
-        "downloadUrl": "https://github.com/EvilPiza/MightyCobaltAddon/releases/download/1.0.0/MightyAddon-1.0.0-dev.jar",
-        "sha256": "5a9c187aa8684f6cb2259616573f531740072f6b9f22b0c2cd3ea3eeb4f9836b"
+        "cobaltVersion": "SNAPSHOT",
+        "cobaltSha256": "d279ae6170dfac46fdbbcf837cae984304c2d317b6a1bdce260630ebf88e0bbf",
+        "downloadUrl": "https://github.com/EvilPiza/MightyStore/releases/download/1.0.0/MightyStore-1.0.0.jar",
+        "sha256": "67d2d26c1596ff129fc14536f354932210983053b57e7f41a6fb083dc3786097"
+      }
+    },
+    {
+      "id": "mightyaddon",
+      "name": "Mighty Addon",
+      "latest": {
+        "version": "1.0.1",
+        "cobaltVersion": "SNAPSHOT",
+        "cobaltSha256": "d279ae6170dfac46fdbbcf837cae984304c2d317b6a1bdce260630ebf88e0bbf",
+        "downloadUrl": "https://github.com/EvilPiza/MightyCobaltAddon/releases/download/1.0.0/MightyAddon-1.0.1.jar",
+        "sha256": "5ec8d3bfbacee8b3e65852f478f23f59f21b09b264273fce86dc6be272c01434"
       }
     }
   ]
