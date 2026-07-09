@@ -5,12 +5,9 @@
       "id": "mightystore",
       "name": "Mighty Store",
       "latest": {
-        "version": "1.0.0",
-        "_comment": "so the version stuff is if/when Cobalt has releases, for now we basically only care abt the hash (it's not the commit hash btw)",
-        "cobaltVersion": "SNAPSHOT",
-        "cobaltSha256": "d279ae6170dfac46fdbbcf837cae984304c2d317b6a1bdce260630ebf88e0bbf",
-        "downloadUrl": "https://github.com/EvilPiza/MightyStore/releases/download/1.0.0/MightyStore-1.0.0.jar",
-        "sha256": "cc691044920d58a40f3bec5db4b1d198ca9804efa68618b263c69d2764c47467"
+        "version": "1.0.1",
+        "downloadUrl": "https://github.com/EvilPiza/MightyStore/releases/download/1.0.1/MightyStore-1.0.1.jar",
+        "sha256": "7ae3d501428ffd4459a2a5dadfa160f7a61afa807556c776f931a0818182e308"
       }
     },
     {
