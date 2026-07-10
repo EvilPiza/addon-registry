@@ -5,7 +5,9 @@
       "id": "mightystore",
       "name": "Mighty Store",
       "latest": {
-        "version": "1.0.2",
+        "cobaltVersion": "SNAPSHOT",
+        "cobaltSha256": "d279ae6170dfac46fdbbcf837cae984304c2d317b6a1bdce260630ebf88e0bbf",
+        "version": "1.0.3",
         "downloadUrl": "https://github.com/EvilPiza/MightyStore/releases/download/1.0.2/MightyStore-1.0.2.jar",
         "sha256": "e1b5f359e36293c6bfa57e5e787f64c0869a940b4b79b00323d1d1910f54def7"
       }
