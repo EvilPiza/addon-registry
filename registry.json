@@ -5,11 +5,11 @@
       "id": "mightystore",
       "name": "Mighty Store",
       "latest": {
-        "version": "1.0.3",
-        "cobaltVersion": "SNAPSHOT",
-        "cobaltSha256": "d279ae6170dfac46fdbbcf837cae984304c2d317b6a1bdce260630ebf88e0bbf",
-        "downloadUrl": "https://github.com/EvilPiza/MightyStore/releases/download/1.0.3/MightyStore-1.0.3.jar",
-        "sha256": "c01da4811b10105a10ed9e5bb527c057bdc1a8f067da54ba1bf5cc7dbd9a7a62"
+        "version": "1.0.2",
+        "cobaltVersion": "master-SNAPSHOT",
+        "cobaltSha256": "d6a82cabc8e76948f8a9037b1ced3da6d7931c56df5b64f0a2fd12b8af69afc4",
+        "downloadUrl": "https://github.com/EvilPiza/MightyCobaltAddon/releases/download/1.0.2/MightyAddon-1.0.2.jar",
+        "sha256": "b1cb69bd4461648214875ae2e5bc670fdd0734986fee75d8ae969f6428a98515"
       }
     },
     {
