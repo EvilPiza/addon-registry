@@ -2,17 +2,6 @@
   "schemaVersion": 1,
   "addons": [
     {
-      "id": "mightystore",
-      "name": "Mighty Store",
-      "latest": {
-        "version": "1.0.2",
-        "cobaltVersion": "master-SNAPSHOT",
-        "cobaltSha256": "d6a82cabc8e76948f8a9037b1ced3da6d7931c56df5b64f0a2fd12b8af69afc4",
-        "downloadUrl": "https://github.com/EvilPiza/MightyCobaltAddon/releases/download/1.0.2/MightyAddon-1.0.2.jar",
-        "sha256": "c01da4811b10105a10ed9e5bb527c057bdc1a8f067da54ba1bf5cc7dbd9a7a62"
-      }
-    },
-    {
       "id": "mightyaddon",
       "name": "Mighty Addon",
       "description": "Mighty Mighty Mighty",
