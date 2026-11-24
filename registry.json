@@ -7,7 +7,7 @@
       "description": "A POC Addon for Cobalt",
       "author": "EvilPiza / Bloxfriend590",
       "latest": {
-        "version": "1.0.1",
+        "version": "1.0.3",
         "cobaltVersion": "26.2-1.0.8.435a54c",
         "cobaltSha256": "1a1a612ae75206d76323aa1dca7213f3fed32205705f06830363ec0ff8732f85",
         "downloadUrl": "https://github.com/EvilPiza/MightyCobaltAddon/releases/download/1.0.3/MightyAddon-1.0.3.jar",
